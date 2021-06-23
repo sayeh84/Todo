@@ -1,0 +1,11 @@
+ 
+ 
+.ToggleTask{
+  width: 80%;
+  height: 80%;
+  border: 0px solid;
+  padding-right: 50px;
+  padding-left: 50px;
+  margin: auto;
+   color: white;
+ }

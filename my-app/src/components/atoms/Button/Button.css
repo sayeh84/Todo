@@ -1,0 +1,63 @@
+ 
+.ButtonSubmit {
+  padding: 16px 32px;
+  border-radius: 2px;
+  text-transform:capitalize;
+  font-size:24px;
+  font-family: 'LabGrotesque-Bold';
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  transition: #bc4e46 0.2s ease-in-out;
+  background-color: #bc4e46;;
+}
+
+
+ .VeryBigButton{
+  margin-top: 30px;
+   width: 90%;
+   padding: 10px;
+   border-radius: 10px;
+   font-size:24px;
+   text-transform:capitalize;
+   color: #fff;
+   background-color:#bc4e46;
+ }
+
+ .BigButton{
+   width: 30%;
+   padding-top: 10px;
+   padding-bottom: 8px;
+   border-radius: 10px;
+   font-size:24px;
+   text-transform:capitalize;
+   color: #fff;
+   background-color:gray;
+ }
+ .ButtonDone{
+  padding: 2px;
+  border-radius: 10px;
+  padding-bottom: 0px;
+  font-size:24px;
+  text-transform:capitalize;
+  background-color:#fed8b1;
+}  
+.ButtonRemove{
+  padding: 2px;
+  border-radius: 10px;
+  padding-bottom: 0px;
+  font-size:24px;
+  text-transform:capitalize;
+  background-color:orange ;
+}
+
+ button:hover {
+  border: 1px solid #ccb8b6;
+  box-shadow: 5px 10px 10px rgba(0,0,0, 0.5);}
+
+button:focus{
+  background: #ccb8b6;
+}

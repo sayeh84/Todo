@@ -1,0 +1,14 @@
+.ButtonsSection{
+    width: 75%;
+    border: 0px solid;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    margin: auto;
+   margin-bottom: 5px;
+    color: white;
+   }
+
+  .Section{
+   display: flex;
+   justify-content: space-between;
+   }

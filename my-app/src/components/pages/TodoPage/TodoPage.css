@@ -1,0 +1,21 @@
+.TodoPage{
+    width: 80%;
+    height: 80%;
+    border: 0px solid;
+    padding: 50px;
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#222;
+    border-radius: 24px;
+    color: white;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  }
+
+  .TodoPageHedline{
+      margin: auto;
+      width: 40%;
+      border: 0px solid;
+      text-align: center;
+      font-size: 34px;  
+  }
